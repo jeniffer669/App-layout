@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+Sistema desesnvolvido vinculado ao curso talento tech
 
 ## Getting Started
 
